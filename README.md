@@ -11,4 +11,6 @@
 
 - Learn branching
 
+- Learn update changes from main
+
 
